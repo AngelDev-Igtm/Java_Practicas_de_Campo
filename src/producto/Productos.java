@@ -6,5 +6,9 @@ public class Productos
     {
         ProductoController controller = new ProductoController();
         Productos p1  =  new Productos();  
+        
+        
+        // CAMBIOS PARA GIT 
+        System.out.println("Hola Git desde NetBeans");
     }
 }
