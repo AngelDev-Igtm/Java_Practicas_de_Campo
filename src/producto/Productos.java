@@ -10,5 +10,8 @@ public class Productos
         
         // CAMBIOS PARA GIT 
         System.out.println("Hola Git desde NetBeans");
+        
+        System.err.println("Con esta linea de codigo me cambie de rama");
+        System.out.println("producto.Productos.main()");
     }
 }
